@@ -1,6 +1,6 @@
 
 # Linux Tweet App MASTER
-1. Son changes
+1. Son changes on his own.
 
 
 
