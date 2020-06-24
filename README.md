@@ -1,6 +1,9 @@
 
 # Linux Tweet App MASTER
+<<<<<<< HEAD
 1. Son changes on his own.
+That's it.
+
 
 
 
