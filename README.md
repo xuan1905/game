@@ -2,9 +2,6 @@
 
 # Linux Tweet App MASTER
 
-1. Son changes on his own.
-That's it. Pull son.
-
 
 
 This is very simple NGINX website that allows a user to send a tweet. 
