@@ -3,7 +3,7 @@
 # Linux Tweet App MASTER
 
 1. Son changes on his own.
-That's it.
+That's it. Pull son.
 
 
 
